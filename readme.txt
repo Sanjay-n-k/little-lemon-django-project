@@ -31,4 +31,3 @@ This repository contains the backend implementation for **Little Lemon**, a fict
 ```bash
 git clone https://github.com/your-username/little-lemon-backend.git
 cd little-lemon-backend
-```
